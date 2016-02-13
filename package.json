@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "opens the web dashboard",
+  "main": "index.js",
+  "author": "Jesper Joergensen @jesperfj",
+  "repository": "jesperfj/toolbelt-dashboard",
+  "bugs": {
+    "url": "https://github.com/jesperfj/toolbelt-dashboard/issues"
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "BSD"
+}
