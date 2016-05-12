@@ -3,8 +3,8 @@
 let exec = require('child_process').exec;
 
 module.exports = {
-  topic: 'dashboard',
-  command: 'open',
+  topic: 'browse',
+  command: 'overview',
   description: 'Opens the app overview page for the current app in your default browser',
   default: true,
   help: '',

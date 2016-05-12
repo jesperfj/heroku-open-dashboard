@@ -1,10 +1,10 @@
 'use strict';
 exports.topic = {
-  name: 'dashboard',
+  name: 'browse',
   // this is the help text that shows up under `heroku help`
   description: 'Open app overview page in default browser for current app'
 };
 
 exports.commands = [
-  require('./commands/dashboard.js')
+  require('./commands/browse.js')
 ];

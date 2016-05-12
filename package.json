@@ -1,6 +1,6 @@
 {
   "name": "heroku-open-dashboard",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "opens Heroku web dashboard from CLI",
   "main": "index.js",
   "author": "Jesper Joergensen @jesperfj",
@@ -11,5 +11,5 @@
   "keywords": [
     "heroku-plugin"
   ],
-  "license": "BSD"
+  "license": "BSD-2-Clause"
 }
