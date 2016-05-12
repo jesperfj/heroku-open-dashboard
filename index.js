@@ -2,7 +2,7 @@
 exports.topic = {
   name: 'dashboard',
   // this is the help text that shows up under `heroku help`
-  description: 'Mac Only: open Heroku Dashboard in default browser'
+  description: 'Open app overview page in default browser for current app'
 };
 
 exports.commands = [

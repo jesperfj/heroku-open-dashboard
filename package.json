@@ -1,7 +1,7 @@
 {
   "name": "heroku-open-dashboard",
-  "version": "1.0.3",
-  "description": "opens the web dashboard",
+  "version": "1.0.4",
+  "description": "opens Heroku web dashboard from CLI",
   "main": "index.js",
   "author": "Jesper Joergensen @jesperfj",
   "repository": "jesperfj/heroku-open-dashboard",

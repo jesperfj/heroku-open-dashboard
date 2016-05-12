@@ -5,9 +5,9 @@ let exec = require('child_process').exec;
 module.exports = {
   topic: 'dashboard',
   command: 'open',
-  description: 'opens Heroku Dashboard',
+  description: 'Opens the app overview page for the current app in your default browser',
   default: true,
-  help: 'help text for hello:world',
+  help: '',
   needsApp: true,
   run: function (context) {
     if(process.platform == "darwin") {
